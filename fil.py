@@ -30,4 +30,3 @@ def juntandoTexto():
         linhas = ["Titulo\n", "Descrição\n", "footer\n"]
         arquivo.writelines(linhas)
 
-    
